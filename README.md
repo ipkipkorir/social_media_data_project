@@ -4,6 +4,16 @@ BY KIPKORIR KIPTOO
 
 For Power Learn Project
 
+A SHORT PITCH DECK
+
+- Unlocking Insights from Social Media Data
+
+Explore the power of social media data to uncover valuable insights that can drive business growth. This presentation will dive into our analysis of user data from Instagram, YouTube, and Facebook across the UK, Australia, and the US.
+
+END OF PITCH DECK
+
+---
+
 The Mission:
 
 1. Data Dive (10 pts):
